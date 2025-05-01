@@ -84,7 +84,7 @@ h1 {
   transition: 0.3s ease-in-out;
   pointer-events: none;
 }
-.gallery li:hover span {
+.gallery li a:hover span {
   opacity: 1;
   transform: scale(1.1) rotate(360deg);
 }
